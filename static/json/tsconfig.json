@@ -1,0 +1,39 @@
+{
+  "Template": [
+    {
+      "picUrl": "/static/image/box1.png",
+      "name": "模板1",
+      "path": "/box1",
+      "localAddress": ""
+    },{
+      "picUrl": "/static/image/box2.png",
+      "name": "模板2",
+      "path": "/box2",
+      "localAddress": ""
+    },
+    {
+      "picUrl": "/static/image/box3.png",
+      "name": "模板3",
+      "path": "/box3",
+      "localAddress": ""
+    },
+    {
+      "picUrl": "/static/image/box4.png",
+      "name": "模板4",
+      "path": "/box4",
+      "localAddress": ""
+    },
+    {
+      "picUrl": "/static/image/box5.png",
+      "name": "模板4",
+      "path": "/box4",
+      "localAddress": ""
+    },
+    {
+      "picUrl": "/static/image/box6.png",
+      "name": "模板4",
+      "path": "/box4",
+      "localAddress": ""
+    }
+  ]
+}
